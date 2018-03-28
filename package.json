@@ -1,0 +1,11 @@
+{
+  "name": "tangly-demo",
+  "version": "1.0.0-beta",
+  "description": "A demo site for Tangly",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Eric Butterfield",
+  "license": "ISC"
+}
